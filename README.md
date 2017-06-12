@@ -7,3 +7,5 @@ In this project, we analyzed various global World development indicators (WDIs) 
 We performed missing values imputation, correlation analysis, we built a linear regression model for FSI based on various WDIs, checked collinearity and heteroskedasticity and also run RESET test to find quadratic and cubic components for the model. 
 
 FSI is calculated by the independent company Fund for Peace and requires a lot of expertise and comprehensive analysis. In this project, we showed that it is possible to built statistical model for FSI based on only four publicly available WDI variables which explain 80% of FSI changes. In further works, it would be a good direction to consider other 970 different WDIs and build a more complicated model to improve the prediction of FSI.
+
+Analysis was made in Gretl http://gretl.sourceforge.net/
