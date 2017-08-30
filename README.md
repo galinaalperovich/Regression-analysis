@@ -1,5 +1,5 @@
 # Regression-analysis
-The homework assignment on regression modeling, CVUT, STA course
+The final project on regression modeling, CVUT, STA course (Statistics in Economics)
 
 
 In this project, we analyzed various global World development indicators (WDIs) for 177 countries for the 2010 year. We considered 17 the most important indicators from different categories and analyzed how they influence on the Fragile State Index (FSI). We discovered that there are four the most significant indicators which explain 80% of FSI variance: Proportion of the children enrolled in the primary school, Number of Internet users, Proportion of the people with access to the water and Urban population. The interesting fact is that the Number of Internet users and FSI has the lowest negative correlation among other variables, and hence the negative linear relationship. The simplest linear regression model with only this one variable explains 74% of FSI variance, and thus this indicator is the most significant for FSI prediction.
